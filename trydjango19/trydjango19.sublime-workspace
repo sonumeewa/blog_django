@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"quer",
+				"queryset_list"
+			],
+			[
+				"is_",
+				"is_superuser"
+			],
+			[
+				"Htt",
+				"Http404"
+			],
+			[
+				"Po",
+				"PostManager"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"h",
+				"Http404"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"sh",
+				"share_string"
+			],
+			[
+				"he",
+				"height_field"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"pa",
+				"page_request_var"
+			],
+			[
+				"q",
+				"queryset_list"
+			],
+			[
+				"paginator.pa",
+				"paginator.page"
+			],
+			[
+				"pag",
+				"paginator"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"pos",
+				"post_detail"
+			],
+			[
+				"po",
+				"post_detail"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ea",
+				"ease-in"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"scr",
+				"scrollTop"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"background-",
+				"background-attachment"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "rein",
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/models.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/__init__.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/admin.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/trydjango19/crud.md",
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/views.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/templates/post_form.html",
+		"/home/sonumeewa/Desktop/trydjango19/src/trydjango19/urls.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/urls.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/trydjango19/settings.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/static/css/base.css",
+		"/home/sonumeewa/Desktop/trydjango19/src/templates/base.html",
+		"/home/sonumeewa/Desktop/trydjango19/src/templates/post_list.html",
+		"/home/sonumeewa/Desktop/trydjango19/src/templates/messages_display.html",
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/forms.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/templates/post_detail.html",
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/templatetags/__init__.py",
+		"/home/sonumeewa/Desktop/trydjango19/src/posts/templatetags/urlify.py",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/raw",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/home.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/js/cultural.js",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/css/cultural.css",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/css/mod.css",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/cultural.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/css/slider.css",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/OnSpotDrawing.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/css/n.css",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/Team.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/register_form.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/About.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/js/slider.js",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/n.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/js/mod.js",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/events.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/urls.py",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/base.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/views.py",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/message.html",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/static/mom2k18/base/js/n.js",
+		"/home/sonumeewa/Desktop/stepmom/mom2k18/templates/basenew.html",
+		"/home/sonumeewa/Desktop/mom (copy)/mom2k18/templates/Events.html",
+		"/home/sonumeewa/Desktop/mom/mom/settings.py",
+		"/home/sonumeewa/Desktop/mom/mom2k18/views.py",
+		"/home/sonumeewa/Desktop/mentorship-master/mentorship/settings.py",
+		"/home/sonumeewa/Desktop/mentorship-master/program/views.py",
+		"/home/sonumeewa/Desktop/alumni-develop/rocketu_alumni/settings/production.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"id",
+			"()\n",
+			"request",
+			"index.html",
+			"Post.objects.all",
+			"request",
+			"{% endblock%}",
+			"{% block head%}",
+			"\n{% block head%}",
+			"h2",
+			"nc-overlay",
+			"<!-- TEAM-BOX-1 -->",
+			"https://images.unsplash.com/photo-1460400408855-36abd76648b9?dpr=2&auto=format&crop=entropy&fit=crop&w=250&h=250&q=80",
+			"https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?dpr=2&auto=format&crop=entropy&fit=crop&w=250&h=250&q=80",
+			"https://images.unsplash.com/photo-1465326117523-6450112b60b2?dpr=2&auto=format&crop=entropy&fit=crop&w=250&h=250&q=80\"",
+			"https://images.unsplash.com/photo-1464655646192-3cb2ace7a67e?dpr=2&auto=format&crop=entropy&fit=crop&w=250&h=250&q=80",
+			"cultural.html",
+			"top",
+			"header",
+			"content",
+			"#",
+			"1.5",
+			"clientx",
+			"pagex",
+			"12.5",
+			"height",
+			"480",
+			"768",
+			"@media",
+			"h2",
+			"overflo",
+			"1",
+			"z-inde",
+			"content",
+			"large-",
+			"height",
+			"z-inde",
+			"m",
+			".m",
+			"\n    <div id=\"large-header\" class=\"large-header\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"slug",
+			"",
+			"h4",
+			"",
+			"{% static 'mom2k18/images/mad.jpg'%}",
+			"",
+			"768",
+			"992"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 29.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango19.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
